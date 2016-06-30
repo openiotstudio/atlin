@@ -3,3 +3,7 @@
 #### A space to share games, tutorials and secrets. We are using under-used spaces such as phone boxes to create safe, local networks for teenagers of this local area.
 
 *By: Rachel, Jude, Otis, Lexie, Ewan*
+
+<img src="img/atlin_screen.png">
+
+<img src="img/phonebooth_outside.jpg">
